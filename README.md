@@ -85,7 +85,7 @@ The notebook applies several classical statistical techniques, including:
 - Descriptive Statistics
 - Frequency Distributions
 - Skewness Analysis
-- Central Limit Theorem (CLT)
+- Central Limit Theorem
 - Bootstrap Resampling
 - Confidence Interval Estimation
 - Comparison between Mean and Median
@@ -124,7 +124,7 @@ The analyses indicate that pegmatite length distributions exhibit strong positiv
 Clone this repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/mikafelisbino/Serido-Pegmatites.git
 ```
 
 Install the required Python packages:
@@ -151,6 +151,6 @@ Open the notebook using Google Colab or Jupyter Notebook and execute the cells s
 
 **Mika Rodrigues Felisbino**
 
-Bachelor's Thesis — Federal University of Rio Grande do Norte (UFRN)
+Bachelor's Thesis — University of São Paulo (USP)
 
-This repository contains the computational analyses developed during the undergraduate research project on the statistical characterization of pegmatite dikes from the Seridó Pegmatite Province.
+This repository contains the computational analyses developed during the Data Analysis and the Machine Learning for Geosciense courses with data from my undergraduate research project on the characterization of pegmatite dikes from the Seridó Pegmatite Province.
