@@ -114,7 +114,7 @@ The analyses indicate that pegmatite length distributions exhibit strong positiv
 .
 ├── Serido_Pegmatites.ipynb
 ├── README.md
-└── data/
+└── data/Planilha_Centroides
 ```
 
 ---
